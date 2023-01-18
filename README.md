@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sablobsimus.   
-- 👀 I’m interested in MIDI, audio, Python, C++, music, ffmpeg, CSound. I compose music too.
+- 👀 I’m interested in 🎹MIDI, 🔊audio, 🐍Python, C++, 🎼music, 📹ffmpeg, CSound. I compose music too.
 - 🌱 I’m currently learning 
     - Python. 
     - Also re-aquainting myself with c++ and learning the more recent language features. (I'm kinda old. My knowledge is stale) The reason I'm interested in c++ again....
